@@ -1,0 +1,11 @@
+.App {
+  height: 500vh;
+}
+
+.box {
+  position: fixed;
+  top: 100px;
+  height: 100px;
+  width: 0;
+  background: orange;
+}

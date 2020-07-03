@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import App from './감속을 이용한 부드러운 스크롤링/App';
 
 ReactDOM.render(
   <React.StrictMode>
